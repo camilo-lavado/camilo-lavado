@@ -1,4 +1,4 @@
-# Hola, soy Camilo 👋
+# Hola, soy Camilo
 
 **Desarrollador Backend Java · Spring Boot · APIs REST · SQL**
 
